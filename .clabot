@@ -1,4 +1,4 @@
 {
-	"contributors": ["jessiedeot", "bobfox", "joelebwf", "cwhanse", "jonoxia", "michael-bbs", "jrippingale", "andydevlinsmith", "dfcoffin", "garretfick"],
-	"message": "Thank you for your pull request! We require contributors to sign the SunSpec Contributor License Agreement and we don't seem to have you on file. Instructions on how to submit a signed CLA can be found on the Orange Button Open Source Community web page (https://sunspec.org/ob-open-source-community/). In order for us to review and merge you code, please follow the instructions in the link above. If you have any questions, please email support@sunspec.org. CLA has not been signed by {{usersWithoutCLA}}"
+	"contributors": ["jessiedeot", "bobfox", "joelebwf", "cwhanse", "jonoxia", "michael-bbs", "jrippingale", "andydevlinsmith", "dfcoffin", "garretfick", "reepoi"],
+	"message": "Thank you for your pull request! We require contributors to sign the SunSpec Contributor License Agreement and we don't seem to have you on file. Instructions on how to submit a signed CLA can be found on the Orange Button Open Source Community web page (https://sunspec.org/ob-open-source-community/). In order for us to review and merge your code, please follow the instructions in the link above. If you have any questions, please email support@sunspec.org. CLA has not been signed by {{usersWithoutCLA}}"
 }
